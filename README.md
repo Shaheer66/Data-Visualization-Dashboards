@@ -1,6 +1,6 @@
 # Data-Visualization-Dashboards
 This repo will explain some of my work in data dashboards
-As it can't be shared with source code due to some reasons of contracts, screenshots and some public links are available to express my work
+As it can't be shared with other sources due to some reasons of contracts, screenshots and some public links are available to express my work
 
 
 https://app.powerbi.com/view?r=eyJrIjoiYWEyNWEzNGUtNTBiMi00NGI5LTgzMmYtYTdmZjg0MGUxMzAxIiwidCI6IjY5ZGJjNDU0LTgwZmEtNDgyZS1iODUxLTdjYTczOWFmYWVjYSJ9
